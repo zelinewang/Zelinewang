@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zelinewang, preferred name is Zane, feel free call me either one of them.
-- 👀 I’m interested in comedy (standups) and sa-fir movies, exploring food and boba!
-- 🌱 I’m currently learning Geographic Information Science in Nanjing University and Computer Science in Berkeley
-- 💞️ I’m looking to collaborate on Java, python and C
-- 📫 Reach me by zelinewang@berkeley.edu
+- 🌱 I’m currently an undergraduate student of Geographic Information Science in Nanjing University and Computer Science in Berkeley
+- 💞️ Interested in machine learning and deep learning, Java engineering.
+- 📫 Reach me by zelinewang@berkeley.edu or wzl106097395@gmail.com
 
 <!---
 Zelinewang/Zelinewang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
