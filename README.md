@@ -3,7 +3,7 @@
 - 💞️ Interested in machine learning/deep learning, artificial intelligence, software engineering and more.
 - 👾 Personal WebPage: https://zelinwang.netlify.app/
 - 🤖 CV: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
-- 📫 Reach me by zelinewang@berkeley.edu or wzl106097395@gmail.com
+- 📫 Reach me by wzl106097395@gmail.com
 
 <!---
 Zelinewang/Zelinewang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
