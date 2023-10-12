@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Zelin Wang, preferred name is Zane, feel free call me either one of them.
-- 🌱 Currently an undergraduate student of Geographic Information Science in Nanjing University and Computer Science in Berkeley
-- 💞️ Interested in machine learning/deep learning, artificial intelligence, software engineering and more.
+- 👋 Hi, I’m Zane Wang, legal name is Zelin, feel free to call me either one of them.
+- 🌱 Currently a master's student of Computer Science related topics at Carnegie Mellon University (MS in Mobile and IofT Engineering)
+- 💻 Actively looking for Summer 2024 Software Engineering Internship and Spring 2025 Full-time positions! 
+- 💞️ Interested in Software Engineering, Artificial Intelligence, Geographical Information Science and more.
 - 👾 Personal WebPage: https://zelinwang.netlify.app/
-- 🤖 CV: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
-- 📫 Reach me by wzl106097395@gmail.com
+- 🤖 Resume: [Zane Wang's Resume](https://drive.google.com/file/d/1FtKLaNcdocG90VsSw-14uhOlElwUkd6y/view?usp=sharing)
+- 👔 Linkedin: https://www.linkedin.com/in/zane-wang7/ Please Connect with ME!!! 
+- 📫 Reach me by zelinwan@andrew.cmu.edu.  
 
 <!---
 Zelinewang/Zelinewang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
