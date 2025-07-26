@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zane Wang, legal name is Zelin, feel free to call me either one of them.
-- 🌱 Currently a master's student of Computer Science related topics at Carnegie Mellon University (MS in Mobile and IofT Engineering)
-- 💞️ Interested in Software Engineering, Artificial Intelligence, Geographical Information Science and more.
+- 🌱 Master's student of Computer Science related topics at Carnegie Mellon University (MS in Mobile and IofT Engineering)
+- 💞️ Interested in Software, AI, Embedded, GIS and more.
 - 👔 Linkedin: https://www.linkedin.com/in/zane-wang7/ Please Connect with ME!!! 
-- 📫 Reach me by zelinwan@andrew.cmu.edu.  
+- 📫 Reach me by zelinwang10@gmail.com  
 
 <!---
 Zelinewang/Zelinewang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
