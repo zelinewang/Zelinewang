@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zane Wang, legal name is Zelin, feel free to call me either one of them.
+- 👋 Hi, I’m Zane Wang
 - 🌱 Master's student of Computer Science related topics at Carnegie Mellon University (MS in Mobile and IofT Engineering)
 - 💞️ Interested in Software, AI, Embedded, GIS and more.
 - 👔 Linkedin: https://www.linkedin.com/in/zane-wang7/ Please Connect with ME!!! 
